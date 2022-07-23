@@ -28,6 +28,8 @@ Former meetup community organizer for:
 
 * [Write the Docs Seattle](https://www.meetup.com/write-the-docs-seattle/)
 * Write the Docs Boston (defunct and replaced by New England WTD)
+* MobileTea Boston (2014-2017)
+* New England Software Engineers (2014-2016)
 
 ## Conferences
 
