@@ -34,7 +34,7 @@ Former meetup community organizer for:
 ## Conferences
 
 I've helped organization the Write the Docs Portland conference for several years. 
-I've served in a several roles including:
+I've served in the follow roles:
 
 * Lightning Talk emcee
 * Writing Day coordinator (open source project hack day)
