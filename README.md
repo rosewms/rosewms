@@ -56,8 +56,9 @@ Conference presentations:
 * ACT-W ChickTech 2018, Seattle: Doc all the things! Well some of the, we'll talk about it
 * API City 2018, Seattle: Before the API docs - Onboarding, its time to pay the piper
 
-Meetup presentations and lightning talks:
+Other presentations and lightning talks for meetups and internal purposes:
 
+* Developer documentation and Architectural Decision Records (ADRs)
 * Mental math - prioritizing health, paying your bills, and your job
 * Doc all the things! (lightning talk, mini version of full conference presentation)
 * You make me want to write the docs
