@@ -1,13 +1,22 @@
 ## About me
 
-Information engineer, #WriteTheDocs Meetup Team Lead and community organizer.
+Welcome! My name is Rose Williams, here's a little about me:
 
-The highlights:
+I'm a #WriteTheDocs Meetup Team Lead and community organizer. Job titles I have held include information engineer, technical 
+writer, content developer, and a technical communication specialist. Throughout my previous jobs I have advocated for inclusive 
+work places, mental health, and opportunities for LGBTQIA+, mil-spouses, and veterans.
 
-* She/her
-* Bi 
-* Mental health advocate
-* Mil-spouse
+My predominate work experience has been documenting SaaS products! My previous fields of work include education technology 
+(learning management systems), healthcare technologies (electronic healthcare records), security (AWS and API integrations), 
+domain and email management, and a distributed SQL query engine (data connectors and open source). Throughout all of my work 
+experiences I have contributed to product specific "preventative documentation" including UX writing, micro-copy, error messages, 
+and in some cases, deprecation messaging.
+
+I love working with companies to create accessible documentation and learning experiences. I enjoy learning new technical topics 
+so I can translate them for customers. One of my favorite projects was creating a guided learning series to help customers 
+onboard more quickly.
+
+Reach out to me on Twitter or LinkedIn!
 
 ### Socials
 
@@ -21,11 +30,13 @@ and organizer for multiple WTD chapters.
 
 I'm currently organizating:
 
-* [Write the Docs Florida](https://www.meetup.com/write-the-docs-florida/)
-* [Write the Docs New England](https://www.meetup.com/ne-write-the-docs/)
+* [Virtual Write the Docs - East coast](https://www.meetup.com/Virtual-Write-The-Docs-East-Coast-Quorum/)
+* [Virtual Write the Docs - West coast](https://www.meetup.com/Virtual-Write-The-Docs-West-Coast-Quorum/)
 
 Former meetup community organizer for:
 
+* [Write the Docs Florida](https://www.meetup.com/write-the-docs-florida/)
+* [Write the Docs New England](https://www.meetup.com/ne-write-the-docs/)
 * [Write the Docs Seattle](https://www.meetup.com/write-the-docs-seattle/)
 * Write the Docs Boston (defunct and replaced by New England WTD)
 * MobileTea Boston (2014-2017)
