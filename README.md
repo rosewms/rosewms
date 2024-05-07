@@ -2,12 +2,9 @@
 
 Welcome! My name is Rose Williams, here's a little about me:
 
-I'm a #WriteTheDocs Meetup Team Lead and community organizer. Job titles I have held include information engineer, technical 
-writer, content developer, and a technical communication specialist. Throughout my previous jobs I have advocated for inclusive 
-work places, mental health, and opportunities for LGBTQIA+, mil-spouses, and veterans.
+I'm a technical communications specialists focused in technical writing and community support! Job titles I have held include information engineer, technical writer, and content developer.
 
-My predominate work experience has been documenting SaaS products! My previous fields of work include education technology 
-(learning management systems), healthcare technologies (electronic healthcare records), security (AWS and API integrations), 
+In my most recent position, I documented enterprise and SaaS products as well as an OSS project. My previous fields of work include education technology (learning management systems), healthcare technologies (electronic healthcare records), security (AWS and API integrations), 
 domain and email management, and a distributed SQL query engine (data connectors and open source). Throughout all of my work 
 experiences I have contributed to product specific "preventative documentation" including UX writing, micro-copy, error messages, 
 and in some cases, deprecation messaging.
@@ -20,21 +17,16 @@ Reach out to me on Twitter or LinkedIn!
 
 ### Socials
 
-* [Twitter](https://twitter.com/ZelWms)
 * [LinkedIn](https://www.linkedin.com/in/williamsrose/)
 
 ## Community organization
 
-I've been involved with Write the Docs (WTD) for several years as staff and as a meetup community founder 
-and organizer for multiple WTD chapters.
-
-I'm currently organizating:
-
-* [Virtual Write the Docs - East coast](https://www.meetup.com/Virtual-Write-The-Docs-East-Coast-Quorum/)
-* [Virtual Write the Docs - West coast](https://www.meetup.com/Virtual-Write-The-Docs-West-Coast-Quorum/)
+I've been involved with Write the Docs (WTD) for several years as a staff member. I recently took a board position with them to support their community and Meetup efforts. As a former Meetup community founder and organizer, it is a privilege to support others in this work.
 
 Former meetup community organizer for:
 
+* [Virtual Write the Docs - East coast](https://www.meetup.com/Virtual-Write-The-Docs-East-Coast-Quorum/)
+* [Virtual Write the Docs - West coast](https://www.meetup.com/Virtual-Write-The-Docs-West-Coast-Quorum/)
 * [Write the Docs Florida](https://www.meetup.com/write-the-docs-florida/)
 * [Write the Docs New England](https://www.meetup.com/ne-write-the-docs/)
 * [Write the Docs Seattle](https://www.meetup.com/write-the-docs-seattle/)
@@ -47,8 +39,8 @@ Former meetup community organizer for:
 I've helped organization the Write the Docs Portland conference for several years. 
 I've served in the follow roles:
 
-* Lightning Talk emcee
 * Writing Day coordinator (open source project hack day)
+* Lightning Talk emcee
 * Unconference coordinator
 * Social media coordinator
 
