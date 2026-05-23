@@ -4,7 +4,7 @@ Welcome! My name is Rose Williams, here's a little about me:
 
 I'm a technical communications enthusiast focused in technical writing and community support! Job titles I have held include information engineer, (senior) technical writer, and content developer.
 
-In my most recent position, I launched onboarding documentation for a newly modernized internal documentation site (Material for MkDocs). My work included creating internal documentation standards and resources, such as an in-house Style Guide, Markdown Reference, and templates based on the Diataxis frameworks. My previous fields of work include education technology (learning management systems), healthcare technologies (electronic healthcare records), security (AWS and API integrations), 
+In my most recent position, I launched onboarding docs for a newly modernized internal documentation site (Material for MkDocs). My work included creating internal documentation standards and resources, such as an in-house Style Guide, Markdown Reference, and templates based on the Diataxis frameworks. My previous fields of work include education technology (learning management systems), healthcare technologies (electronic healthcare records), security (AWS and API integrations), 
 domain and email management, and a distributed SQL query engine (data connectors and open source). Throughout all of my work 
 experiences I have contributed to product specific "preventative documentation" including UX writing, micro-copy, error messages, 
 and in some cases, deprecation messaging.
